@@ -1,2 +1,2 @@
 # Meltdown-Attack
-This project implements the Meltdown attack, a significant vulnerability discovered in Intel processors. This exploit demonstrates how to access the root kernel of an operating system that lacks the security patch designed to mitigate this vulnerability.
+This project delves into the intricate world of processes, kernels, caches, and virtual memory. The goal is to construct an exploit impacting most processors developed between 1995 and 2018. This exploit demonstrates the vulnerability known as "Meltdown" and exemplifies how theoretical knowledge in computing systems can be applied to understand real-world vulnerabilities.
